@@ -1,2 +1,2 @@
 This is my File C.
-
+adding new file to C file.
