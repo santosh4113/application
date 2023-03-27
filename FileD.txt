@@ -1,2 +1,0 @@
-This is new D file.
-Adding new to this file.
